@@ -3,5 +3,5 @@ steps:
     args: ["install"]
   - name: "gcr.io/cloud-builders/npm"
     args: ["run", "build"]
-  - name: "gcr.io/gcpinit/firebase"
-    args: ["deploy", "--project=gcpinit", "--only=hosting"]
+  - name: "gcr.io/gcpinit-281210/firebase"
+    args: ["deploy", "--project=gcpinit-281210", "--only=hosting"]
