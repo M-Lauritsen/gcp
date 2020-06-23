@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React + Firebase Hosting + GCP Cloud Build then Applying the GCP Cloud
+          React + Firebase Hosting + GCP Cloud Build, then Applying the GCP Cloud
           Build CI/CD Pipeline
         </p>
         <a
